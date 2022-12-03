@@ -1,0 +1,225 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  background-image: linear-gradient(100deg, #B2B2B2, #D8D8D8);
+  color: white;
+
+}
+
+.Contenedor{
+  background-color: #346ABC;
+  height: 100px;
+  width: 1348px;
+  position: absolute;
+  top: 0px;
+}
+
+.in{
+  color: White;
+}
+
+.Mapa{
+  color: White;
+}
+
+.fond{
+  top: 150px;
+  position: absolute;
+}
+.Texto1{
+
+  height: 70px;
+  width: 400px;
+  text-align: center;
+  font-size: 15px;
+  font-family: arial;
+  border-radius: 65px;
+  margin-top: 18px;
+  margin-left: 780px;
+
+}
+
+.img1{
+  height: 80px;
+width: 200px;
+position: absolute;
+top: 10px;
+margin-left: 200px;
+}
+.Buscar{
+  position: absolute;
+  top: 50px;
+  right: 180px;
+  height: 20px;
+}
+
+
+.menu2{
+  background-image: linear-gradient(0deg, #FFFFFF,#FAFAFA,#EEEEEE,
+#DFDFDF,#CFCFCF,#BFBFBF);
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  display: inline-block;
+  margin-left:0PX;
+  margin-top: 100px;
+  width:1348px;
+  height: 50px;
+}
+.menu2 li{
+  display: inline-block;
+}
+.menu2 li a{
+padding: 16px 16px;
+  display: inline-block;
+  color: black;
+  text-align: center;
+  list-style-type: none;
+  text-decoration: none;
+margin-left: 55px;
+
+}
+.menu2 li a:hover{
+  background: grey;
+  color:white;
+}
+
+.face{
+  width: 100px;
+  height: 100px;
+  margin-left: 200px;
+  top: 200px;
+  position: absolute;
+}
+.f{
+  height: 50px;
+  width: 200px;
+  text-align: center;
+  font-size: 15px;
+  font-family: arial;
+  margin-top: 95px;
+  margin-left: 350px;
+  color: black;
+  position: absolute;
+  font-size: 20px;
+}
+.I{
+  height: 50px;
+  width: 200px;
+  text-align: center;
+  font-size: 15px;
+  font-family: arial;
+  margin-top: 280px;
+  margin-left: 350px;
+  color: black;
+  position: absolute;
+  font-size: 20px;
+}
+
+.M{
+  height: 50px;
+  width: 200px;
+  text-align: center;
+  font-size: 15px;
+  font-family: arial;
+  margin-top: 500px;
+  margin-left: 350px;
+  color: black;
+  position: absolute;
+  font-size: 20px;
+}
+.insta{
+  width: 80px;
+  height: 80px;
+  margin-left: 210px;
+  top: 400px;
+  position: absolute;
+}
+.corre{
+  width: 100px;
+  height: 100px;
+  margin-left: 200px;
+  top: 600px;
+  position: absolute;
+}
+
+
+
+aside{
+  display: inline-block;
+  width: 200px;
+  height: 600px;
+  background: grey;
+  float: right;
+  top: 150px;
+  position: absolute;
+  margin-left: 1000px;
+  text-align: center;
+  opacity: 0.9;
+}
+.as{
+  margin-left: 0px;
+  top: 0px;
+  width: 150px;
+  height: 90px;
+}
+
+.tex2{
+  text-align: center;
+  color: white;
+  margin-left: -10px;
+width: 0px;
+height: 0px;
+font-size: 20px;
+top: 0px;
+font-family: arial;
+}
+.tex1{
+  text-align: center;
+  color: white;
+  margin-left: 0px;
+width: 150px;
+height: 50px;
+font-size: 25px;
+}
+.or{
+  font-family: arial;
+  text-align: left;
+  margin-left: -20px;
+}
+
+.tex3{
+  text-align: center;
+  color: white;
+  margin-left: -20px;
+width: 0px;
+height: 0px;
+font-size: 20px;
+font-family: arial;
+}
+
+.or1{
+  font-family: arial;
+  text-align: left;
+  margin-left: -10px;
+}
+footer{
+  position: absolute;
+  text-align: center;
+  height: 100px;
+  width: 1123px;
+  margin-left: -200px;
+  margin-top: 600px;
+  padding: 10px 213px;
+  background: #666;
+  color: white;
+}
+
+.img5{
+  height: 30px;
+  width: 140px;
+  position: absolute;
+  top: 80px;
+  margin-left: -50px;
+
+}
